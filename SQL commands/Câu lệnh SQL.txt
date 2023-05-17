@@ -1,0 +1,2 @@
+password = ? COLLATE Latin1_General_CS_AI     // Tính năng phân biệt chữ hoa, chữ thường trong SQL
+s
